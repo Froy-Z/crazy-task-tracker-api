@@ -4,7 +4,10 @@
 
   spring:
     datasource:
-      url: jdbc:postgresql://localhost/crazy-task-tracker
+      url: jdbc:postgresql://localhost/crazy-task-tracker?characterEncoding=UTF-8
       username: postgres
       password: admin
       driver-class-name: org.postgresql.Driver
+    jpa:
+      hibernate:
+        ddl-auto: update # Hibernate будет автоматически создавать и обновлять таблицы БД

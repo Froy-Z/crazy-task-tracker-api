@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54de1dda-0687-41ce-8a72-cc7c0eb7cb22" name="Changes" comment="Настройка сервера">
+      <change afterPath="$PROJECT_DIR$/src/main/java/my/code/crazy/task/tracker/store/entities/ProjectEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/my/code/crazy/task/tracker/store/entities/TaskEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/my/code/crazy/task/tracker/store/entities/TaskStateEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/my/code/crazy/task/tracker/store/repositories/ProjectRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/my/code/crazy/task/tracker/store/repositories/TaskRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/my/code/crazy/task/tracker/store/repositories/TaskStateRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/22cc03d0-1883-44c7-8912-971ec8002b57.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/22cc03d0-1883-44c7-8912-971ec8002b57.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +30,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
@@ -38,6 +51,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -170,7 +184,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692481291519</updated>
-      <workItem from="1692481292800" duration="6279000" />
+      <workItem from="1692481292800" duration="21859000" />
     </task>
     <task id="LOCAL-00002" summary="Настройка сервера">
       <created>1692487273560</created>
